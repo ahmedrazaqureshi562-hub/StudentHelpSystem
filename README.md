@@ -24,3 +24,11 @@ After the group's `main.c` is integrated with this module, compile with:
 ```bash
 gcc main.c studenthelp.c -o StudentHelp
 ```
+## Testing and Test Cases
+
+The StudentHelp system is tested using different test cases.
+Screenshots of the actual program execution are provided below.
+
+### Test Screenshots
+
+Screenshots will be added after running the program.
